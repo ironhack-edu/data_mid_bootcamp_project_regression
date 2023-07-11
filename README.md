@@ -9,7 +9,13 @@ While this document is written with an audience in mind that may or may not have
 - [Data](#data)
     - [Data Points](#data-points)
     - [King County Grading System](#king-county-grading-system)
-    
+ 
+## Links: 
+- Planning : https://www.notion.so/d780fdec038742ee819123921e7d2cb2?v=a80f602e31594e359f7c48b687e22396
+- Tableau : https://public.tableau.com/authoring/Midbootcampproject_16890771105650/SqftlotvsPrice#1
+- Miro : https://miro.com/welcomeonboard/QlFHSVF4Ulo1Wm5TSVpKOWExYWRMRXdkeVAwU3VITmxuWkx6SUEwQTh1MXZNOElic28xcVdRdWUyNXF2cTZzenwzMDc0NDU3MzUzNTI2OTQ4MDI0fDI=?share_link_id=845545079302
+- Github: https://github.com/AntoineVagnon/data_mid_bootcamp_project_regression/tree/master
+
 ## Project Goal
 Our project goal is twofold:
 1. Predict the price of a house based on features provided in the dataset.
@@ -45,10 +51,7 @@ Grades, as part of the King County grading system, represent the construction qu
 10. **12**: Custom design and excellent builders. All materials are of the highest quality and all conveniences are present.
 11. **13**: Generally custom designed and built. Mansion level. Large amount of highest quality cabinet work, wood trim, marble, entry ways etc.
 
-hola <3
-hello
 
-This Ben! xD
 
 
 
