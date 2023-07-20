@@ -13,9 +13,9 @@ While this document is written with an audience in mind that may or may not have
 ## Links: 
 - Planning : https://www.notion.so/d780fdec038742ee819123921e7d2cb2?v=a80f602e31594e359f7c48b687e22396
 - Tableau : https://public.tableau.com/authoring/Midbootcampproject_16890771105650/SqftlotvsPrice#1
-- Miro : https://miro.com/welcomeonboard/QlFHSVF4Ulo1Wm5TSVpKOWExYWRMRXdkeVAwU3VITmxuWkx6SUEwQTh1MXZNOElic28xcVdRdWUyNXF2cTZzenwzMDc0NDU3MzUzNTI2OTQ4MDI0fDI=?share_link_id=845545079302
 - Github: https://github.com/AntoineVagnon/data_mid_bootcamp_project_regression/tree/master
-
+- Presentation: https://www.canva.com/design/DAFpMU7-d8o/3yW0tqJ6RXrQj5Xn6Zhb1w/view?utm_content=DAFpMU7-d8o&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
+  
 ## Project Goal
 Our project goal is twofold:
 1. Predict the price of a house based on features provided in the dataset.
